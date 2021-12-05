@@ -1,4 +1,4 @@
-# Datathon team : Prediction of patients requiring early/delayed dialysis treatment
+# Title: Prediction of patients receiving delayed dialysis treatment
 
 # Problem Statement
 Which are the features that will lead to AKI patients in ICU to receive delayed dialysis (>8h)?
