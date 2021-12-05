@@ -24,7 +24,7 @@ Logistic regression model was built to classify patients receiving renal replace
 
 The above table shows minimum blood urea nitrogen is 3x more likely to predict delayed dialysis than minimum hematocrit. These features are clinically relevant. Patients with higher white blood cell counts and higher mean temperature may be septic, and may be better treated with antibiotics first. Dialysis may only be started after 8 hours, if their condition fails to improve.
 
-## Conclusion and recommendation
+## Conclusion and recommendations
 We successfully explored a logistic regression model to classify AKI patients, who received delay renal therapy.
 
 It would be interesting to compare the outcomes of patients who underwent early and delayed dialysis. We could also include polynomial features since a preliminary analysis showed that an interaction of variables such as maximum anion gap and mean blood pressure may have a higher predictive model during classification. Lastly, we want to explore boosting models as they may provide better accuracy. 
