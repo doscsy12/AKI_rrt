@@ -1,7 +1,7 @@
 # Title: Prediction of patients receiving delayed dialysis treatment
 
 # Problem Statement
-Which are the features that will lead to AKI patients in ICU to receive delayed dialysis (>8h)?
+What are the features that will lead to AKI patients in ICU to receive delayed dialysis (>8h)?
 
 ## Background
 In life-threatening cases, early dialysis can be life-saving. However, some patients can regain kidney function without dialysis, in the absence of life-threatening complications. The questions of when to start dialysis, and in which patients, are the subject of intense debate. The ELAIN trial found that early dialysis reduced mortality at 90 days, while the STARRT-AKI trial found that early dialysis was not associated with a lower risk of death. These high-profile randomised controlled trials only lead to more confusion in the field.
