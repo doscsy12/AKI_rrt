@@ -27,4 +27,4 @@ The above table shows minimum blood urea nitrogen is 3x more likely to predict d
 ## Conclusion and recommendations
 We successfully explored a logistic regression model to classify AKI patients, who received delay renal therapy.
 
-It would be interesting to compare the outcomes of patients who underwent early and delayed dialysis. We could also include polynomial features since a preliminary analysis showed that an interaction of variables such as maximum anion gap and mean blood pressure may have a higher predictive model during classification. Lastly, we want to explore boosting models as they may provide better accuracy. 
+It would be interesting to compare the outcomes of patients who underwent early and delayed dialysis. We could also include polynomial features since a preliminary analysis showed that an interaction of variables such as interaction between maximum anion gap and mean blood pressure, may have a higher predictive model during classification. Lastly, we want to explore boosting models as they may provide better accuracy. 
