@@ -1,7 +1,7 @@
-# Title: Prediction of patients receiving delayed dialysis treatment
+## Title: Prediction of patients receiving delayed dialysis treatment
 This project was done during the SG Healthcare AI Datathon 2021. 
 
-# Problem Statement
+## Problem Statement
 Predict which AKI patients in ICU will receive delayed dialysis (>8h).
 
 ## Background
